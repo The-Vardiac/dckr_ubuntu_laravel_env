@@ -1,0 +1,4 @@
+- Ubuntu version: 24.04
+- PHP version: 8.4-fpm
+- Composer version: 2.7
+- Laravel version: 12.37.0
