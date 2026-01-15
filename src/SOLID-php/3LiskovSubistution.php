@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Child classes must be usable without breaking the parent's behavior
+ * 
  * Child classes must be replaceable for their parent
  * 
  */

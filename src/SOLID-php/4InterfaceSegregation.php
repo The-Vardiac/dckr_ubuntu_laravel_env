@@ -3,6 +3,8 @@
 /**
  * Do not force classes to implement method they don't use
  * 
+ * Many small interfaces are better than one big interface
+ * 
  */
 
 // bad example

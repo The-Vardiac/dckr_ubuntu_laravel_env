@@ -1,7 +1,7 @@
 <?php
 
 /** 
- * a class should have one reason to change 
+ * a class should have only one reason to change 
  * 
  */
 
