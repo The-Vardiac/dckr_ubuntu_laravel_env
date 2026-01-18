@@ -7,7 +7,8 @@ RUN apt update && apt install -y \
     lsb-release \
     curl \
     gnupg \
-    git 
+    git \
+    iputils-ping
 
 ### php environment
 RUN add-apt-repository ppa:ondrej/php -y
