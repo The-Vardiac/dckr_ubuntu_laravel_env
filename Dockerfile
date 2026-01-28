@@ -16,7 +16,8 @@ RUN apt update && apt install -y \
     bison \
     re2c \
     pkg-config \
-    wget
+    wget \
+    vim
 
 ### github cli
 # RUN mkdir -p -m 755 /etc/apt/keyrings \
